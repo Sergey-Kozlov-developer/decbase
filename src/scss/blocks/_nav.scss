@@ -1,0 +1,28 @@
+.nav {
+	display: flex;
+	gap: 64px;
+	font-size: 16px;
+	align-items: center;
+}
+
+.nav__list {
+	display: flex;
+	gap: 40px;
+	li {
+		font-weight: 600;
+		a {
+			color: var(--text-color);
+			transition: color 0.2s ease-in;
+			&:hover {
+				color: var(--accent);
+			}
+		}
+	}
+}
+.button {
+	font-weight: 600;
+	color: var(--button-text);
+	padding: 5px 19px;
+	background-color: var(--accent);
+	border-radius: 15px 0;
+}
