@@ -1,0 +1,21 @@
+.service {
+	padding: 126px 0;
+}
+
+.service__top {
+	margin-bottom: 50px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 30px;
+}
+.service__title {
+	display: grid;
+	gap: 16px;
+}
+.service__controls {
+	display: flex;
+	gap: 16px;
+}
+.service__slider {
+}

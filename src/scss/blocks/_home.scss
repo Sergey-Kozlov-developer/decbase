@@ -1,0 +1,25 @@
+.home {
+	display: flex;
+	gap: 44px;
+	margin: 0 auto;
+}
+.home__block {
+	padding-top: 218px;
+}
+
+.heftiba {
+	display: flex;
+	position: relative;
+	padding-top: 107px;
+}
+.heftiba__img {
+	width: 717px;
+	flex-shrink: 0;
+	border-radius: 150px 0;
+}
+.heftiba__bg {
+	z-index: -3;
+	margin-left: -650px;
+	margin-bottom: -33px;
+	margin-top: 33px;
+}

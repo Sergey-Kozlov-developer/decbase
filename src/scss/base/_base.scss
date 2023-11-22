@@ -7,3 +7,50 @@ body {
 	color: var(--text-color);
 	font-family: var(--font-main);
 }
+.title-1 {
+	width: 549px;
+	padding-bottom: 23px;
+	color: var(--text-color);
+	font-size: 72px;
+	font-weight: 600;
+}
+.title-2 {
+	font-size: 48px;
+	font-weight: 500;
+	// line-height: 162.5%;
+	color: var(--text-color);
+}
+.title-3 {
+	// padding-bottom: 12px;
+	color: var(--p-text);
+	font-size: 20px;
+	font-weight: 600;
+	// line-height: 140%;
+}
+.description {
+	// padding-bottom: 32px;
+	line-height: 166%;
+	color: var(--p-text);
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 400;
+	// line-height: 155%;
+
+	&__home {
+		width: 603px;
+		padding-bottom: 32px;
+		line-height: 166%;
+		color: var(--p-text);
+		font-style: normal;
+		font-size: 18px;
+		font-weight: 400;
+	}
+}
+.btn {
+	padding: 18px 28px;
+	font-size: 18px;
+	font-weight: 600;
+	color: var(--button-text);
+	background: var(--btn-bg);
+	border-radius: 20px 0px;
+}
