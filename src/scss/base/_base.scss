@@ -58,4 +58,9 @@ body {
 	width: 142px;
 	height: 42px;
 	text-align: center;
+	&:hover {
+		transition: 500ms ease-in;
+		// transform: 500ms;
+		background: var(--btn-hover);
+	}
 }
