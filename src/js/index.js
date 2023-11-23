@@ -15,4 +15,7 @@ const swiper = new Swiper(".swiper", {
 		prevEl: "#sliderPrev",
 		nextEl: "#sliderNext",
 	},
+	autoplay: {
+		delay: 3000,
+	},
 });
