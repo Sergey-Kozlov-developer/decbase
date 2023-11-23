@@ -17,6 +17,7 @@ body {
 .title-2 {
 	font-size: 48px;
 	font-weight: 500;
+	padding-bottom: 23px;
 	// line-height: 162.5%;
 	color: var(--text-color);
 }
@@ -25,6 +26,7 @@ body {
 	color: var(--p-text);
 	font-size: 20px;
 	font-weight: 600;
+	padding-bottom: 23px;
 	// line-height: 140%;
 }
 .description {
@@ -34,6 +36,7 @@ body {
 	font-style: normal;
 	font-size: 18px;
 	font-weight: 400;
+	padding-bottom: 23px;
 	// line-height: 155%;
 
 	&__home {
@@ -47,10 +50,12 @@ body {
 	}
 }
 .btn {
-	padding: 18px 28px;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 600;
 	color: var(--button-text);
 	background: var(--btn-bg);
 	border-radius: 20px 0px;
+	width: 142px;
+	height: 42px;
+	text-align: center;
 }
