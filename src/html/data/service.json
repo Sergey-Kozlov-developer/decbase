@@ -1,7 +1,32 @@
 [
 	{
-		"title": "Hello world",
-		"description": " Lorem",
-		"img": "./../../img/service/sr.png"
+		"title": "Interior Design",
+		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
+		"img": "sr.png"
+	},
+	{
+		"title": "Interior Design",
+		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
+		"img": "sr.png"
+	},
+	{
+		"title": "Interior Design",
+		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
+		"img": "sr.png"
+	},
+	{
+		"title": "Interior Design",
+		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
+		"img": "sr.png"
+	},
+	{
+		"title": "Interior Design",
+		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
+		"img": "sr.png"
+	},
+	{
+		"title": "Interior Design",
+		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
+		"img": "sr.png"
 	}
 ]
