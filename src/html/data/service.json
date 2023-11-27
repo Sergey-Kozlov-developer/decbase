@@ -5,9 +5,14 @@
 		"img": "sr.png"
 	},
 	{
-		"title": "Interior Design",
+		"title": "Architecture",
 		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
-		"img": "sr.png"
+		"img": "ere.png"
+	},
+	{
+		"title": "Planning",
+		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
+		"img": "sd.png"
 	},
 	{
 		"title": "Interior Design",
@@ -15,18 +20,13 @@
 		"img": "sr.png"
 	},
 	{
-		"title": "Interior Design",
+		"title": "Architecture",
 		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
-		"img": "sr.png"
+		"img": "ere.png"
 	},
 	{
-		"title": "Interior Design",
+		"title": "Planning",
 		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
-		"img": "sr.png"
-	},
-	{
-		"title": "Interior Design",
-		"description": " Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore.",
-		"img": "sr.png"
+		"img": "sd.png"
 	}
 ]
