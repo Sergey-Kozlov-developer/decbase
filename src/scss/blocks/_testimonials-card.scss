@@ -1,0 +1,33 @@
+.testimonials__card {
+	display: flex;
+
+	margin: 20px 80px;
+	padding-left: 80px;
+	gap: 20px;
+	align-items: center;
+	width: 571px;
+	height: 226px;
+	flex-shrink: 0;
+	border-radius: 70px 0px;
+	background: #fff;
+	box-shadow: 7px 7px 30px 5px rgba(66, 96, 84, 0.15);
+}
+.testimonials__img {
+	width: 317px;
+	// height: 164px;
+	margin-left: -147px;
+	position: relative;
+	// z-index: 3;
+	border-radius: 40px 0px;
+}
+.testimonials__header {
+	display: flex;
+}
+.testimonials__text {
+}
+.testimonials__title1 {
+}
+.testimonials__subtitle {
+}
+.testimonials__quotes {
+}
