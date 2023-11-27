@@ -1,0 +1,35 @@
+.work {
+	margin-top: 171px;
+	background: #f8f8f8;
+	height: 677px;
+}
+.wrap {
+	text-align: center;
+	padding-top: 87px;
+}
+.work__project {
+	// margin: 0 auto;
+	width: 185px;
+	height: 182px;
+	flex-shrink: 0;
+	border-radius: 40px 0px;
+	background: #fff;
+	box-shadow: 0px 13px 16px 0px rgba(0, 0, 0, 0.1);
+	&.down {
+		margin-top: 92px;
+	}
+}
+.work__card {
+	text-align: center;
+	padding: 47px 50px;
+}
+.work__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 50px 20px;
+}
+.work__img {
+	align-items: center;
+	padding-top: 92px;
+}
