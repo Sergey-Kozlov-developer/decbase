@@ -1,6 +1,7 @@
-<div class="swiper">
+<div class="swiper" id="testimonials-sw">
 	<div class="swiper-wrapper">
-		@@include('./../templates/testimonials-cards.html')
+		@@loop('./../templates/testimonials-cards.html',
+		'./data/testimonials.json')
 		<!-- @@loop('./../templates/service-cards.html', './data/service.json') -->
 	</div>
 </div>
