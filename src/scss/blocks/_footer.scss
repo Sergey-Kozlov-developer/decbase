@@ -1,14 +1,70 @@
 .footer {
-	background-color: rgb(62, 62, 62);
-	padding: 50px 0;
-	font-size: 32px;
-    color: #fff;
-
-	h1 {
-		font-size: 32px;
-	}
-
-	@media (max-width: 1200px) {
-		font-size: 26px;
-	}
+    background-color: #F8F8F8;
 }
+
+
+
+.footer__container {
+    display: flex;
+    gap: 100px;
+    a {
+        color: var(--text-color);
+        transition: color 0.2s ease-in;
+        &:hover {
+            color: var(--accent);
+        }
+    }
+
+}
+
+.footer__logo {
+    width: 100%;
+
+}
+
+
+.footer__quick {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 10px;
+    width: 100%;
+
+}
+
+.footer__company {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 10px;
+    width: 100%;
+}
+
+.footer__contact {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 10px;
+    width: 100%;
+}
+
+.footer__fallow {
+    gap: 10px;
+    width: 100%;
+}
+.footer__img {
+
+}
+
+//.footer {
+//	background-color: rgb(62, 62, 62);
+//	padding: 50px 0;
+//	font-size: 32px;
+//    color: #fff;
+//
+//	h1 {
+//		font-size: 32px;
+//	}
+//
+//	@media (max-width: 1200px) {
+//		font-size: 26px;
+//	}
+//}
+
