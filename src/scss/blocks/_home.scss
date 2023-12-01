@@ -3,6 +3,7 @@
 	gap: 44px;
 	margin: 0 auto;
 }
+
 .home__block {
 	padding-top: 218px;
 }
@@ -12,15 +13,26 @@
 	position: relative;
 	padding-top: 107px;
 }
+
 .heftiba__img {
-	width: 717px;
-	flex-shrink: 0;
-	border-radius: 150px 0;
+	//width: 717px;
+	//flex-shrink: 0;
+	//border-radius: 150px 0;
+	//z-index: -3;
+	//margin-left: 650px;
+	//margin-bottom: 33px;
+	//margin-top: 33px;
+	//border-radius: 150px 0;
+
 }
+
 .heftiba__bg {
 	// position: absolute; // включить при раб сборке
-	z-index: -3;
+	//z-index: -3;
+	//margin-left: -650px;
+	//margin-bottom: -33px;
+	margin-top: 33px;
+	border-radius: 150px 0;
 	margin-left: -650px;
 	margin-bottom: -33px;
-	margin-top: 33px;
 }
